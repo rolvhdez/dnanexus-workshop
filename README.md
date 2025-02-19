@@ -1,7 +1,7 @@
 # dnanexus-workshop
 
-**Date:** 2025-02-20 14:00
-**Lecturer:** Dr. Cris Van Hout and Dr. Claudia Gonzaga (LIIGH UNAM).
+- **Date:** 2025-02-20 14:00
+- **Lecturer:** Dr. Cris Van Hout and Dr. Claudia Gonzaga (LIIGH UNAM).
 
 This repository contains the code for excercises and some notes for the workshop: "Using DNANexus for Genetic Analyses".
 
